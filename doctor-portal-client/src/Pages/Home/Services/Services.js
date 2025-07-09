@@ -9,23 +9,23 @@ const Services = () => {
   const serviceCardInfo = [
     {
       id: 1,
-      title: "Flu Shot",
+      title: "Cardiology",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+        "Heart-related treatments.",
       img: fluoride,
     },
     {
       id: 2,
-      title: "Cavity Filling",
+      title: "Neurology",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+        "Brain and nervous system care.",
       img: cavity,
     },
     {
       id: 3,
-      title: "Teeth Whitening",
+      title: "Dantist",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+        "Examine teeth, gums, and mouth to diagnose dental issues.",
       img: whitening,
     },
   ];

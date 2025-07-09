@@ -12,10 +12,11 @@ const Hero = () => {
             className="max-w-sm object-cover rounded-lg shadow-2xl"
           />
           <div>
-            <h1 className="text-4xl font-bold lg:w-80">Your New Smile Starts Here</h1>
+            <h1 className="text-4xl font-bold lg:w-80">A Brighter, Healthier Tomorrow Begins Today</h1>
             <p className="py-3 lg:w-96">
-              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-              excepturi exercitationem quasi.
+             At [Hospital Name], we believe in the power of hope, healing,
+              and human kindness. Every day, we witness the courage of our patients and the
+              dedication of our healthcare teams—reminders that even in difficult moments, better days are ahead.
             </p>
             <button className="btn btn-primary bg-gradient-to-r from-cyan-500 to-blue-500 text-white">Get Started</button>
           </div>

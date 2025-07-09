@@ -15,12 +15,9 @@ const DentalCare = () => {
             Exceptional Dental Care, on Your Terms
           </h1>
           <p className="py-6">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. The point
-            of using Lorem Ipsumis that it has a more-or-less normal
-            distribution of letters,as opposed to using 'Content here, content
-            here', making it look like readable English. Many desktop publishing
-            packages and web page
+          At [Hospital Name], we provide comprehensive, high-quality dental care in a modern,
+           patient-centered environment. Whether you need a routine check-up, emergency treatment,
+           or advanced oral surgery, our expert dental team is here to ensure your smile stays healthy and bright.
           </p>
           <button className="btn btn-primary bg-gradient-to-r from-cyan-500 to-blue-500 text-white">Get Started</button>
         </div>

@@ -66,7 +66,7 @@ const Header = () => {
             className="normal-case text-xl flex justify-center items-center"
           >
             <img className="w-12" src={logo} alt="" />
-            Dr. Portal
+            Hospital Management
           </Link>
         </div>
         <div className="navbar-center hidden lg:flex">

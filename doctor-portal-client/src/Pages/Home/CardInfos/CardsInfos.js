@@ -16,7 +16,7 @@ const CardsInfos = () => {
     {
       id: 2,
       title: "Visit Our Location",
-      description: "Brooklyn, NY 10036, United States",
+      description: "No. 66, Changjiang West Road, Huangdao District, Qindao, China, 266580",
       img: marker,
       background: "bg-gradient-to-r from-cyan-500 to-blue-500",
     },
