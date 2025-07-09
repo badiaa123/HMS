@@ -1,4 +1,4 @@
-# Doctors Portal 🥼
+# Hospital Management 🥼
 
 The **Doctors Portal** is a web application designed to help doctors manage their appointments and profiles. Built using **React**, **React Router**, **React Hook Form**, **Tailwind CSS**, **DaisyUI**, and hosted on **Firebase**, this app provides a seamless user experience for medical professionals.
 
