@@ -1,16 +1,12 @@
 import React from "react";
-import bannerImg from "../../../Assets/images/chair.png";
+//import bannerImg from "../../../Assets/images/chair.png";
 
 const Hero = () => {
   return (
     <div>
       <div className="hero bg-base-200">
         <div className="hero-content flex-col lg:flex-row-reverse justify-between mt-10">
-          <img
-            src={bannerImg}
-            alt="hero"
-            className="max-w-sm object-cover rounded-lg shadow-2xl"
-          />
+        
           <div>
             <h1 className="text-4xl font-bold lg:w-80">A Brighter, Healthier Tomorrow Begins Today</h1>
             <p className="py-3 lg:w-96">

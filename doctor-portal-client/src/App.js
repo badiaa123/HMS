@@ -17,11 +17,10 @@ function App() {
       <DataProvider>  {/* Wrap RouterProvider with DataProvider */}
         <RouterProvider router={router} />
       </DataProvider>
-      
-         
-  
     </div>
   );
+     
+
 }
 
 export default App;

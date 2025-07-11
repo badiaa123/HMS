@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import { Link } from "react-router-dom";
 import logo from "../../../Assets/logos/logo-2.png";
 import { AuthContext } from './../../../contexts/AuthProvider';
+import Doctors from "../../Registration/doctors";
 
 const Header = () => {
   const { user, logOutUser } = useContext(AuthContext);
@@ -25,7 +26,7 @@ const Header = () => {
         <Link to="appointment">Appointment</Link>
       </li>
       <li>
-        <Link to="./Pages/Registration/doctors.js">Doctor</Link>
+        <Link to="Doctors">octor</Link>
       </li>
  
       <li>
