@@ -8,7 +8,7 @@ import Contact from './../../Pages/Contact/Contact';
 import Error from './../../Pages/Error/Error';
 import LogIn from './../../Pages/LogIn/LogIn';
 import Registration from './../../Pages/Registration/Registration';
-
+import Doctors from './../../Pages/Registration/Doctors';
 
 const router = createBrowserRouter([
   {
@@ -43,6 +43,10 @@ const router = createBrowserRouter([
             path: "/registration",
             element: <Registration />
         },
+        {path:"/Doctors",
+         element: <Doctors />
+        },
+         
         {
             path: "*",
             element: <Error />

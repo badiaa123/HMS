@@ -25,11 +25,16 @@ const Header = () => {
         <Link to="appointment">Appointment</Link>
       </li>
       <li>
+        <Link to="./Pages/Registration/doctors.js">Doctor</Link>
+      </li>
+ 
+      <li>
         <Link to="review">Review</Link>
       </li>
       <li>
         <Link to="contact">Contact Us</Link>
       </li>
+     
     </React.Fragment>
   );
 
