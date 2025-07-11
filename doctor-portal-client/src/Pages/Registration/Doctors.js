@@ -1,10 +1,13 @@
-import React from "react";
-import about from "../../Assets/images/about.svg";
+import React from 'react';
 
 const Doctors = () => {
+          console.log("NewPage component is rendering!") // Check browser console
+
   return (
-    <div className="flex justify-center items-center bg-base-200 py-10">
-      <img className="w-1/2" src={about} alt="" />
+
+    <div className="page-container">
+      <h1>New Page Content</h1>
+      <p>This should be visible in the browser</p>
     </div>
   );
 };
